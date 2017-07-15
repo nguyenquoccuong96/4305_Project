@@ -39,6 +39,7 @@ _Chuẩn Lập Trình
 
 -Phạm vi áp dụng:
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
+
 _Nền tảng xây dựng
 
 +C# .NET - Nền tảng hệ thống phần mềm
