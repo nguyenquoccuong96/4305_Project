@@ -41,7 +41,8 @@ _Chuẩn Lập Trình
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
 _Nền tảng xây dựng
 
-C# .NET - Nền tảng hệ thống phần mềm
++C# .NET - Nền tảng hệ thống phần mềm
+
 C # là một ngôn ngữ lập trình hiện đại được phát triển bởi Microsoft và được phê duyệt bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).
 
 C # được phát triển bởi Anders Hejlsberg và nhóm của ông trong việc phát triển .Net Framework.
@@ -58,7 +59,8 @@ Vai trò C# trong .NET Framework
 
 C# tạo cơ hội cho tổ chức xây dựng các App Client/Server n-tier. Kết nối ADO.NET cho phép truy cập nhanh chóng & dễ dàng với SQL Server, Oracle… Cách tổ chức .NET cho phép hạn chế những vấn đề phiên bản.
 
-MS SQL Server - Nền tảng cơ sở dữ liệu
++MS SQL Server - Nền tảng cơ sở dữ liệu
+
 SQL Server là một hệ quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng câu lệnh SQL (Transact-SQL) để trao đổi dữ liệu giữa máy Client và máy cài SQL Server. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.
 
 SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
