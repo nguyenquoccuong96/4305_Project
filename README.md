@@ -21,16 +21,16 @@ _Giấy phép
 
 _Kiến thức áp dụng
 
-+Sử dụng các control cơ bản và nâng cao trong Winform.
-+DataGridView, DataSet, DataTable, DataRow.
-+Phân tích thiết kế hệ thống cơ sở dữ liệu.
-+Phân tích thiết kế giao diện.
-+Trigger SQL.
-+Procedure, function SQL.
-+Kết nối SQL server với ứng dụng winform 
-+Chuyển data giữa các form.
-+Phân quyền người dùng trên ứng dụng.
-+Thêm, xóa, sửa dữ liệu từ trang quản trị.
++ Sử dụng các control cơ bản và nâng cao trong Winform.
++ DataGridView, DataSet, DataTable, DataRow.
++ Phân tích thiết kế hệ thống cơ sở dữ liệu.
++ Phân tích thiết kế giao diện.
++ Trigger SQL.
++ Procedure, function SQL.
++ Kết nối SQL server với ứng dụng winform 
++ Chuyển data giữa các form.
++ Phân quyền người dùng trên ứng dụng.
++ Thêm, xóa, sửa dữ liệu từ trang quản trị.
 _Chuẩn Lập Trình
 
 -Mục đích:
